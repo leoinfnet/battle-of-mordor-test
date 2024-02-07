@@ -34,14 +34,14 @@ public class CharacterService {
         return keyCommands.keys("*");
     }
     public void createChars(){
-        /*
+/*
         for(int i=0;i< 200;i++){
             Faker faker = new Faker();
             String charName = faker.lordOfTheRings().character();
             set(charName,new Random().nextLong(3000));
         }
-        
-         */
+*/
+
     }
 
 
